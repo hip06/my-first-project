@@ -1,5 +1,6 @@
 const $ = document.querySelector.bind(document);
 const $$ = document.querySelectorAll.bind(document);
+const a = 123
 
 var bodyWidthCurrent = $('body').clientWidth
 // console.log(bodyWidthCurrent)
